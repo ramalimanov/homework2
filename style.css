@@ -1,0 +1,102 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image:url(../images/green_cup/green_cup.png);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    height: 100%;
+}
+
+header {
+    background: #ffffff;
+    padding: 35px;
+    border-bottom: #cccccc 5px solid;
+}
+
+h1 {
+    font-weight: bold;
+    padding: 30px;
+    border-bottom: #cccccc 5px solid;
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#fixed {
+    font-weight: bold;
+    background: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: fixed;
+    padding: 35px;
+    text-align: center;
+    top: 0px;
+    left: 115px;
+    color: #ffffff;
+}
+
+.wrapper {
+    background: #ffffff;
+    width: 960px;
+    /* height: 100%; */
+    margin: 0 auto 0 auto;
+    margin-top: 30px;
+    padding: 20px;
+    border: #dddddd 2px solid;
+}
+
+.Buttons {
+    background: #ffffff;
+    /* padding: 23px; */
+    text-align: right;   
+    top: 0;
+}
+
+
+
+#pic1 {
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+    
+
+}
+
+#pic2 {
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+    
+}
+
+#pic3 {
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+    
+}
+
+#pic4 {
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+    
+}
+
+#pic5 {
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+}
+
+footer {
+    clear: both;
+    background: #666666;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+    bottom: 0px;
+    border-top: #4aaaa5 solid 5px;
+}
+
